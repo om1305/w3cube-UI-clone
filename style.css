@@ -1,0 +1,39 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+.hello{
+    color:rgb(2, 149, 149);
+}
+.bottom{
+    color:rgb(2, 149, 149);
+    font-weight: 700;
+}
+.small{
+    color: gray;
+    font-size:x-small;
+}
+.highlight{
+    background-color: #f7faff;
+}
+.key{
+    margin-top: 75px;
+}
+.texting{
+    font-weight: 600;
+    font-size: 20px;;
+}
+.certificate_bg{
+    background-color: aliceblue;
+}
+.testimonal{
+    background-color: rgb(250, 241, 230);
+}
+.testimonial_review{
+    border-radius: 8px;
+    background-color: white;
+}
+.footer_color{
+    background-color: rgb(12, 30, 94);
+    color: white;
+
+}
